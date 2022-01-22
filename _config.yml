@@ -1,13 +1,13 @@
 # Site settings
-title: A blog about lorem ipsum dolor sit amet
-description: A blog about lorem ipsum dolor sit amet
+title: RJ Tevonian
+description: Personal Website
 # baseurl: "/particle" # the subpath of your site, e.g. /blog
 # url: "localhost:3000" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
 
 # User settings
 username: RJ Tevonian
 user_description: Aging Researcher
-user_title: Biochemist
+user_title: PhD Student in Chemistry
 email: rjtevon@gmailcom
 
 # Google-analytics
