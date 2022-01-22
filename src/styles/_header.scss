@@ -23,6 +23,7 @@
   margin: 0 auto;
   -webkit-transform: translate(-50%, -50%);
   transform: translate(-50%, -50%);
+  margin: 0;
   .site-title {
     font-size: 50px;
     display: block;
@@ -43,16 +44,6 @@
       font-size: 40px;
     }
   }
-}
-
-
-
-.header h1 {
-  font-family: 'Raleway', sans-serif;
-  font-weight: lighter;
-  font-size: 100px;
-  text-align: center;
-  margin: 0
 }
 
 .header h2 {
